@@ -1,0 +1,13 @@
+domain: nestlab.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://nestlab.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /icra2023_workshop/    # place folder name if the site is served in a subfolder
+lsi: false
+safe: true
+source: .
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
