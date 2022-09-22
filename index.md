@@ -1,7 +1,4 @@
 ---
-layout: page
-title: "ICRA 2023 Workshop"
-permalink: /index
+layout: front
 ---
 
-# ICRA 2023 Workshop
